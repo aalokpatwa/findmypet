@@ -1,12 +1,7 @@
-# findmypet
+# Find My Pet: UnLEASHING the Power of Image Neural Networks to Unite Lost Pets with Their Owners
 - 1st in Category Award, Synopsys Santa Clara Science and Technology Championship, Spring 2018
-- Abstract
-
+## Abstract
 ```
-Find My Pet: UnLEASHING the Power of Image Neural Networks to Unite Lost Pets with Their Owners
-Aalok Patwa
-Archbishop Mitty High School
-
 Estimates indicate that over 10 million pets go missing each year, and one in three pets will become lost at one point in their life. 
 Intelligence about the location of the lost pet would save time, money, and stress.  
 
@@ -33,13 +28,13 @@ I also coded a script to extract GPS metadata from an image using the Python Ima
 usage of neighborhood-specific models and also crucially provides the owner with the location of their pet.
 
 After training and testing multiple different models, I found that I met all three of my design criteria. My project only requires 
-a smartphone picture that contains the pet – it need not be a professional headshot. In creating a profile for their pet, the owner must 
-simply submit 4-10 images, as image augmentation scripts transform the images into a sizeable training dataset. Lastly, the algorithm 
-matches the found pet to three profiles  with 87.93% accuracy.
+a smartphone picture that contains the pet – it need not be a professional headshot. In creating a profile for their pet, the owner 
+must simply submit 4-10 images, as image augmentation scripts transform the images into a sizeable training dataset. Lastly, the 
+algorithm matches the found pet to three profiles  with 87.93% accuracy.
 
-Using cutting-edge techniques, I created a system that costs no money to use and very little to operate, and is simple enough for the 
-average  person to understand. In the future, I can turn this idea into a real application, either using SMS APIs or writing an app. 
-Overall, the project helps reunite people with what they love most: their pet!
+Using cutting-edge techniques, I created a system that costs no money to use and very little to operate, and is simple enough for 
+the average  person to understand. In the future, I can turn this idea into a real application, either using SMS APIs or writing 
+an app. Overall, the project helps reunite people with what they love most: their pet!
 ```
 
 
