@@ -1,7 +1,8 @@
 # findmypet
 - 1st in Category Award, Synopsys Santa Clara Science and Technology Championship, Spring 2018
+- Abstract
+
 ```
-## Abstract
 Find My Pet: UnLEASHING the Power of Image Neural Networks to Unite Lost Pets with Their Owners
 Aalok Patwa
 Archbishop Mitty High School
